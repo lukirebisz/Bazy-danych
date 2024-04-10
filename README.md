@@ -12,7 +12,7 @@ Zawartość plików:
 
 * bledy.sql - operacje w bazie danych przeciwko więzom integralności sprawdzające ich poprawność,
 
-* pliki .R - interfejs graficzny (bibliotek shiny).
+* pliki .R - interfejs graficzny GUI (biblioteka shiny).
 
 
 Język programowania: SQL + R (interfejs graficzny).
